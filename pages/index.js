@@ -20,7 +20,7 @@ export default function Index() {
         <Pane display="flex" paddingTop={48} padding={16} justifyContent="center">
           <Heading is="h1" size={900} color="orange">I'm launching 4 Bitcoin Projects in 12 Months</Heading>
         </Pane>
-        <Paragraph size={500} padding={16} maxWidth={640} style={{color: "#E4E4E4", margin:"32px auto"}}>
+        <Paragraph size={500} padding={16} maxWidth={640} style={{color: "#E4E4E4", margin:"16px auto"}}>
           Inspired by the work of <Link href="https://twitter.com/levelsio" target="_blank">Pieter Levels</Link> and <Link href="https://twitter.com/doweig" target="_blank">Guillaume Verbal</Link>, I am setting a goal for myself to build 4 Lightning Apps projects in 12 months. That would equate to 1 LApp per quarter.<br /><br />I know it's not easy but I am hoping that I'll be more accountable if I share my journey towards learning blockchain concepts (Lightning in particular) and building applications on top of it.<br /><br />
           Here's hoping for the best.<br /><br />
           Victor<br />
